@@ -13,6 +13,7 @@
         <TextBox x:Name="Login" Margin="156,167,438,217" />
         <PasswordBox x:Name="Pasword" Margin="156,221,438,163"/>
         <Button  Content="Сгенерировать пароль" HorizontalAlignment="Left" Margin="431,221,0,0" VerticalAlignment="Top" Width="174" Height="35" Click="Password_Click" Foreground="White" FontSize="14" FontFamily="Segoe UI Semibold" Background="#ff5757"/>
-        <Button Content="Ввод" HorizontalAlignment="Left" Margin="156,278,0,0" VerticalAlignment="Top" Width="180" Height="35" Click="Button_Click" Foreground="White" FontSize="14" FontFamily="Segoe UI Semibold" Background="#ff5757"/>
+        <Button Content="Ввод" HorizontalAlignment="Left" Margin="156,278,0,0" VerticalAlignment="Top" Width="200" Height="35" Click="Button_Click" Foreground="White" FontSize="14" FontFamily="Segoe UI Semibold" Background="#ff5757"/>
+        <Image HorizontalAlignment="Left" Height="62" Margin="23,10,0,0" VerticalAlignment="Top" Width="67" Source="img/logo.png"/>
     </Grid>
 </Window>
